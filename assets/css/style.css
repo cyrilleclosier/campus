@@ -1,0 +1,13 @@
+@font-face {
+    font-family: roboto;
+    src: url(../fonts/Roboto-Regular.ttf);
+}
+
+body{
+    font-family: roboto'Open Sans', 'Helvetica Neue', sans-serif;
+    text-align: center;
+}
+
+#banner{
+    background-image: url(../img/);
+}
